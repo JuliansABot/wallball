@@ -1,4 +1,4 @@
-var base = "https://raw.githubusercontent.com/juliansabot/wallball/";
+var base = "github.com/juliansabot/main/web/wallball/";
 var body = document.getElementsByTagName("body")[0];
 
 //element.setAttribute("class", newClass); //For Most Browsers
